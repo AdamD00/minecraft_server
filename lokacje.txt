@@ -1,0 +1,8 @@
+181 41 195
+65 233 <--- Domek
+100	232 <---- Kopalnia
+-248 80 1458 <---- Baza
+169 65 1119 <---- Baza II
+75 67 226 <---- Wyjscie torów
+-1029 79 -4542 <------- PUSTYNIO-DŻunglo Baza
+77 66 232 <--------- portal świat

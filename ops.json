@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "cec72ccb-b14a-400b-a939-605b04d827e0",
+    "name": "Mariotulu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b34c96b4-9fae-4da6-ad0e-fe3ca03db9ff",
+    "name": "Daberug",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "73143a66-da32-4c03-8a9e-ec9ea4861536",
+    "name": "Mrokon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
