@@ -281,6 +281,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-24 11:46:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-20 22:08:37 +0200"
@@ -302,6 +314,18 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-08-20 20:16:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-08-24 12:30:40 +0200"
     },
     "done": true
   },
@@ -557,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2022-08-23 11:07:07 +0200"
@@ -795,7 +825,10 @@
     "criteria": {
       "minecraft:pillager": "2022-08-20 23:18:09 +0200",
       "minecraft:skeleton": "2022-08-20 19:58:50 +0200",
+      "minecraft:ghast": "2022-08-24 11:58:16 +0200",
+      "minecraft:hoglin": "2022-08-24 11:45:05 +0200",
       "minecraft:vindicator": "2022-08-21 00:09:59 +0200",
+      "minecraft:magma_cube": "2022-08-24 12:05:36 +0200",
       "minecraft:spider": "2022-08-20 19:18:16 +0200",
       "minecraft:creeper": "2022-08-20 20:16:55 +0200",
       "minecraft:witch": "2022-08-21 00:07:21 +0200",
@@ -881,6 +914,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2022-08-21 00:17:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
     },
     "done": true
   },
@@ -1136,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-08-20 21:55:12 +0200"
@@ -1151,6 +1196,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 19:35:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
     },
     "done": true
   },
@@ -2538,6 +2595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2022-08-20 19:23:12 +0200"
@@ -2697,6 +2760,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2022-08-20 21:26:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-24 11:35:53 +0200"
     },
     "done": true
   },
@@ -3546,6 +3615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-08-24 12:30:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 19:44:01 +0200"
@@ -3585,6 +3660,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-23 19:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2022-08-24 11:27:34 +0200"
     },
     "done": true
   },
