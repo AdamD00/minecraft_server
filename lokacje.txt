@@ -6,3 +6,4 @@
 75 67 226 <---- Wyjscie torów
 -1029 79 -4542 <------- PUSTYNIO-DŻunglo Baza
 77 66 232 <--------- portal świat
+-134 80 -579 <----- portal stary
