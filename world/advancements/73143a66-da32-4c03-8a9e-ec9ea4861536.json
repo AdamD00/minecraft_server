@@ -1683,6 +1683,7 @@
       "minecraft:birch_forest": "2022-08-20 19:25:25 +0200",
       "minecraft:windswept_hills": "2022-08-22 21:35:00 +0200",
       "minecraft:wooded_badlands": "2022-08-23 16:29:30 +0200",
+      "minecraft:bamboo_jungle": "2022-08-26 19:20:03 +0200",
       "minecraft:badlands": "2022-08-23 16:26:54 +0200",
       "minecraft:beach": "2022-08-20 19:17:53 +0200",
       "minecraft:dark_forest": "2022-08-20 18:30:07 +0200",
@@ -1693,6 +1694,7 @@
       "minecraft:stony_shore": "2022-08-21 21:16:19 +0200",
       "minecraft:dripstone_caves": "2022-08-23 20:24:50 +0200",
       "minecraft:swamp": "2022-08-20 18:29:43 +0200",
+      "minecraft:grove": "2022-08-26 19:23:27 +0200",
       "minecraft:forest": "2022-08-20 19:30:32 +0200",
       "minecraft:lush_caves": "2022-08-21 22:59:55 +0200",
       "minecraft:desert": "2022-08-23 16:25:43 +0200",
@@ -1702,6 +1704,7 @@
       "minecraft:windswept_savanna": "2022-08-20 19:24:53 +0200",
       "minecraft:warm_ocean": "2022-08-23 16:24:52 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-20 20:14:43 +0200",
+      "minecraft:meadow": "2022-08-26 19:23:08 +0200",
       "minecraft:savanna": "2022-08-20 23:45:56 +0200",
       "minecraft:plains": "2022-08-20 23:45:18 +0200"
     },
@@ -3368,6 +3371,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-20 21:51:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2022-08-26 18:50:06 +0200"
     },
     "done": true
   },
