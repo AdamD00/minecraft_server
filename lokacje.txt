@@ -7,3 +7,4 @@
 -1029 79 -4542 <------- PUSTYNIO-DŻunglo Baza
 77 66 232 <--------- portal świat
 -134 80 -579 <----- portal stary
+-10236 63 -395 <------------- dziura do portalu
