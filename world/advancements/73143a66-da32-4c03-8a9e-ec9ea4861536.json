@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-08-28 13:35:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-08-20 20:22:48 +0200"
@@ -881,6 +887,12 @@
     },
     "done": true
   },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2022-08-28 13:35:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-08-20 23:18:09 +0200",
@@ -892,6 +904,7 @@
       "minecraft:magma_cube": "2022-08-24 12:05:36 +0200",
       "minecraft:spider": "2022-08-20 19:18:16 +0200",
       "minecraft:creeper": "2022-08-20 20:16:55 +0200",
+      "minecraft:phantom": "2022-08-28 13:43:59 +0200",
       "minecraft:witch": "2022-08-21 00:07:21 +0200",
       "minecraft:wither_skeleton": "2022-08-28 00:29:15 +0200",
       "minecraft:cave_spider": "2022-08-21 23:06:22 +0200",
@@ -1326,6 +1339,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-24 11:35:53 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-08-28 13:35:07 +0200"
     },
     "done": true
   },
@@ -2036,6 +2055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-08-28 13:46:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_hoe": "2022-08-21 21:08:03 +0200"
@@ -2123,6 +2148,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-08-20 19:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-08-28 13:46:35 +0200"
     },
     "done": true
   },
@@ -3710,6 +3741,12 @@
     },
     "done": true
   },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2022-08-28 13:35:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-08-23 19:43:46 +0200"
@@ -3761,6 +3798,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-08-20 19:23:04 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-08-28 13:35:07 +0200"
     },
     "done": true
   },
@@ -3965,6 +4008,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2022-08-23 19:58:48 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-08-28 13:35:07 +0200"
     },
     "done": true
   },
