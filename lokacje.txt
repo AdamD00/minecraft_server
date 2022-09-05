@@ -1,5 +1,5 @@
 181 41 195
-65 233 <--- Domek
+66 75 237 <--- Domek
 100	232 <---- Kopalnia
 -248 80 1458 <---- Baza
 169 65 1119 <---- Baza II
@@ -8,3 +8,8 @@
 77 66 232 <--------- portal świat
 -134 80 -579 <----- portal stary
 -10236 63 -395 <------------- dziura do portalu
+-8476 62 148 <------ podwodna świątynia
+-7119 62 63 <------ pilagery
+-6822 62 254 <-------- wioska sawanna
+-6153 62 53 <------- wioska normal
+-4872 62 464 <----- pilagery
