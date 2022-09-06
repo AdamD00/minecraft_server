@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-09-06 21:50:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-08-20 19:17:08 +0200"
@@ -278,6 +284,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-21 21:37:33 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-09-06 21:32:28 +0200"
     },
     "done": true
   },
@@ -524,6 +536,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2022-08-20 19:56:05 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2022-09-06 21:32:28 +0200"
     },
     "done": true
   },
@@ -793,6 +811,12 @@
     },
     "done": true
   },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-09-06 21:32:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2022-08-21 21:28:35 +0200"
@@ -1059,6 +1083,8 @@
       "minecraft:lush_caves": "2022-08-20 21:30:14 +0200",
       "minecraft:windswept_forest": "2022-08-20 19:25:33 +0200",
       "minecraft:ocean": "2022-08-20 23:12:14 +0200",
+      "minecraft:old_growth_birch_forest": "2022-09-06 21:38:38 +0200",
+      "minecraft:meadow": "2022-09-06 21:33:18 +0200",
       "minecraft:plains": "2022-08-23 21:16:24 +0200"
     },
     "done": false
@@ -2231,6 +2257,12 @@
     },
     "done": true
   },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2022-09-06 21:32:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-08-20 21:37:55 +0200"
@@ -2240,6 +2272,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-08-20 19:17:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-09-06 21:32:28 +0200"
     },
     "done": true
   },
@@ -2315,6 +2353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-09-06 21:50:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-08-20 20:27:04 +0200"
@@ -2324,6 +2368,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 21:01:50 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-09-06 21:32:28 +0200"
     },
     "done": true
   },
