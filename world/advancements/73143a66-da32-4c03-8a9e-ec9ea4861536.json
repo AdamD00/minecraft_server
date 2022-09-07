@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2022-09-07 21:01:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-20 20:24:26 +0200"
@@ -904,6 +910,7 @@
       "minecraft:magma_cube": "2022-08-24 12:05:36 +0200",
       "minecraft:spider": "2022-08-20 19:18:16 +0200",
       "minecraft:creeper": "2022-08-20 20:16:55 +0200",
+      "minecraft:slime": "2022-09-07 21:16:32 +0200",
       "minecraft:phantom": "2022-08-28 13:43:59 +0200",
       "minecraft:witch": "2022-08-21 00:07:21 +0200",
       "minecraft:wither_skeleton": "2022-08-28 00:29:15 +0200",
@@ -915,6 +922,12 @@
       "minecraft:zombie_villager": "2022-08-22 17:06:10 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-07 21:10:15 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1285,6 +1298,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-08-21 23:48:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-09-07 21:16:36 +0200"
     },
     "done": true
   },
@@ -1720,9 +1739,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-09-07 21:16:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-08-20 19:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-07 21:10:15 +0200"
     },
     "done": true
   },
@@ -2176,6 +2207,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2022-08-22 08:28:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-07 21:10:15 +0200"
     },
     "done": true
   },
@@ -3260,6 +3297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-09-07 21:20:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-08-20 19:21:30 +0200"
@@ -3626,6 +3669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-09-07 21:16:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2022-08-24 10:29:29 +0200"
@@ -3899,6 +3948,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-08-21 23:00:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-09-07 21:20:52 +0200"
     },
     "done": true
   },

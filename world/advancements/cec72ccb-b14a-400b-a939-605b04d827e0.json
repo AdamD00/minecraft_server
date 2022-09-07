@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-09-07 20:34:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 19:42:59 +0200"
@@ -338,6 +344,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-20 20:05:13 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
@@ -539,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-09-07 20:34:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-08-20 19:26:43 +0200"
@@ -647,6 +665,12 @@
     },
     "done": true
   },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2022-09-07 18:59:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-08-20 23:18:19 +0200",
@@ -655,10 +679,17 @@
       "minecraft:magma_cube": "2022-08-27 23:36:21 +0200",
       "minecraft:spider": "2022-08-20 23:07:30 +0200",
       "minecraft:creeper": "2022-08-20 21:33:41 +0200",
+      "minecraft:slime": "2022-09-07 21:15:40 +0200",
       "minecraft:cave_spider": "2022-08-27 07:50:47 +0200",
       "minecraft:zombie": "2022-08-20 20:30:49 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-07 21:02:40 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -852,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-09-07 20:53:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2022-08-20 19:35:53 +0200"
@@ -930,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-09-07 21:16:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-08-28 00:17:49 +0200"
@@ -957,6 +1000,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-27 23:48:15 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
@@ -1059,6 +1108,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2022-08-22 21:05:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-09-07 19:11:39 +0200"
     },
     "done": true
   },
@@ -1272,9 +1327,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-09-07 21:16:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-08-20 19:32:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-07 21:02:40 +0200"
     },
     "done": true
   },
@@ -1296,11 +1363,13 @@
       "minecraft:taiga": "2022-08-26 21:30:49 +0200",
       "minecraft:sunflower_plains": "2022-08-26 22:25:04 +0200",
       "minecraft:birch_forest": "2022-08-20 21:09:00 +0200",
+      "minecraft:windswept_hills": "2022-09-07 19:19:24 +0200",
       "minecraft:savanna_plateau": "2022-08-26 22:28:15 +0200",
       "minecraft:beach": "2022-08-20 20:32:15 +0200",
       "minecraft:dark_forest": "2022-08-20 19:23:36 +0200",
       "minecraft:stony_peaks": "2022-08-26 22:29:23 +0200",
       "minecraft:mangrove_swamp": "2022-08-20 23:47:07 +0200",
+      "minecraft:sparse_jungle": "2022-09-07 19:35:05 +0200",
       "minecraft:river": "2022-08-20 19:28:44 +0200",
       "minecraft:lukewarm_ocean": "2022-08-28 00:48:39 +0200",
       "minecraft:stony_shore": "2022-08-26 22:01:17 +0200",
@@ -1313,7 +1382,9 @@
       "minecraft:lush_caves": "2022-08-20 19:44:11 +0200",
       "minecraft:windswept_forest": "2022-08-20 19:23:48 +0200",
       "minecraft:ocean": "2022-08-20 20:35:53 +0200",
+      "minecraft:jungle": "2022-09-07 19:03:40 +0200",
       "minecraft:windswept_savanna": "2022-08-20 20:32:27 +0200",
+      "minecraft:deep_lukewarm_ocean": "2022-09-07 19:30:16 +0200",
       "minecraft:flower_forest": "2022-08-26 22:24:02 +0200",
       "minecraft:frozen_peaks": "2022-08-26 21:58:26 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-25 19:42:44 +0200",
@@ -1479,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-09-07 20:34:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-08-23 20:58:31 +0200"
@@ -1600,6 +1677,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2022-08-20 20:56:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-07 21:02:40 +0200"
     },
     "done": true
   },
@@ -2511,6 +2594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-09-07 19:01:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-08-20 19:32:15 +0200"
@@ -2793,6 +2882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-09-07 21:16:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-08-20 19:26:43 +0200"
@@ -2889,6 +2984,12 @@
     },
     "done": true
   },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2022-09-07 18:59:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-08-26 22:15:39 +0200"
@@ -2922,6 +3023,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-08-20 19:26:43 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
@@ -3069,15 +3176,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2022-08-28 00:34:43 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2022-08-27 22:02:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-08-28 00:34:43 +0200"
     },
     "done": true
   },
@@ -3090,6 +3197,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 20:54:29 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
