@@ -347,12 +347,6 @@
     },
     "done": true
   },
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2022-09-07 18:59:25 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-08-20 19:58:00 +0200"
@@ -665,12 +659,6 @@
     },
     "done": true
   },
-  "vanillatweaks:timber": {
-    "criteria": {
-      "tick": "2022-09-07 18:59:25 +0200"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-08-20 23:18:19 +0200",
@@ -680,8 +668,10 @@
       "minecraft:spider": "2022-08-20 23:07:30 +0200",
       "minecraft:creeper": "2022-08-20 21:33:41 +0200",
       "minecraft:slime": "2022-09-07 21:15:40 +0200",
+      "minecraft:witch": "2022-09-11 19:48:39 +0200",
       "minecraft:cave_spider": "2022-08-27 07:50:47 +0200",
-      "minecraft:zombie": "2022-08-20 20:30:49 +0200"
+      "minecraft:zombie": "2022-08-20 20:30:49 +0200",
+      "minecraft:zombie_villager": "2022-09-11 19:49:03 +0200"
     },
     "done": false
   },
@@ -1000,12 +990,6 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-27 23:48:15 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:coordinates_hud": {
-    "criteria": {
-      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
@@ -2984,12 +2968,6 @@
     },
     "done": true
   },
-  "vanillatweaks:nether_portal_coords": {
-    "criteria": {
-      "tick": "2022-09-07 18:59:25 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-08-26 22:15:39 +0200"
@@ -3023,12 +3001,6 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-08-20 19:26:43 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:graves": {
-    "criteria": {
-      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
@@ -3071,6 +3043,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 19:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-09-11 20:50:03 +0200"
     },
     "done": true
   },
@@ -3197,12 +3175,6 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 20:54:29 +0200"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2022-09-07 18:59:25 +0200"
     },
     "done": true
   },
