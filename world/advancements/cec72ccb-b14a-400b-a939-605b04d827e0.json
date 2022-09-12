@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-09-11 21:57:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-08-20 19:58:00 +0200"
@@ -656,6 +662,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2022-08-20 19:53:07 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2022-09-11 21:57:22 +0200"
     },
     "done": true
   },
@@ -990,6 +1002,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-27 23:48:15 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-09-11 21:57:22 +0200"
     },
     "done": true
   },
@@ -2968,6 +2986,12 @@
     },
     "done": true
   },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2022-09-11 21:57:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-08-26 22:15:39 +0200"
@@ -3001,6 +3025,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-08-20 19:26:43 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-09-11 21:57:22 +0200"
     },
     "done": true
   },
@@ -3175,6 +3205,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 20:54:29 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-09-11 21:57:22 +0200"
     },
     "done": true
   },
