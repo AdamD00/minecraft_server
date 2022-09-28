@@ -1697,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2022-09-28 22:30:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-20 19:45:51 +0200"
@@ -1833,6 +1839,7 @@
       "minecraft:warm_ocean": "2022-08-23 16:24:52 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-09-05 10:15:20 +0200",
       "minecraft:flower_forest": "2022-09-05 10:27:15 +0200",
+      "minecraft:frozen_peaks": "2022-09-28 21:33:56 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-20 20:14:43 +0200",
       "minecraft:meadow": "2022-08-26 19:23:08 +0200",
       "minecraft:savanna": "2022-08-20 23:45:56 +0200",
@@ -2489,6 +2496,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2022-08-21 23:48:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-09-28 21:36:39 +0200"
     },
     "done": true
   },
@@ -3186,6 +3199,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2022-08-26 21:02:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-09-28 21:34:02 +0200"
     },
     "done": true
   },
