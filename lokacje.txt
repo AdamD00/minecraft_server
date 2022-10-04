@@ -14,3 +14,4 @@
 -6153 62 53 <------- wioska normal
 -4872 62 464 <----- pilagery
 -1293 38 -52 <-- portal nether twierdza
+-8964 70 -236 <-- podwodna światynia II

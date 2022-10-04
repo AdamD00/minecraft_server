@@ -1368,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-10-04 22:54:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-25 19:58:10 +0200"
@@ -1500,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-10-04 22:54:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2022-08-23 10:21:59 +0200"
@@ -1527,6 +1539,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2022-08-22 20:29:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-10-04 23:03:19 +0200"
     },
     "done": true
   },
@@ -1881,6 +1899,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-08-20 19:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-10-04 22:54:11 +0200"
     },
     "done": true
   },
@@ -2615,6 +2639,7 @@
       "melon_slice": "2022-08-21 23:20:07 +0200",
       "cooked_chicken": "2022-08-20 19:46:09 +0200",
       "mushroom_stew": "2022-08-25 16:24:55 +0200",
+      "cod": "2022-10-04 22:04:11 +0200",
       "cooked_salmon": "2022-08-20 20:24:44 +0200",
       "carrot": "2022-08-23 14:07:01 +0200"
     },
@@ -3199,6 +3224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-10-04 23:32:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-20 19:45:51 +0200"
@@ -3244,6 +3275,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-08-20 19:44:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-10-04 23:32:47 +0200"
     },
     "done": true
   },
